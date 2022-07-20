@@ -1,5 +1,4 @@
 # 3학년 알고리즘 수업 과제 저장
-> http://topaz.cs.pusan.ac.kr/algo2022/about/
 ----
 닉네임: halls
 
